@@ -79,3 +79,7 @@ def main():
 
 if __name__ ==  "__main__":
     main()
+
+    # MX@ReTCM53hPtJ!
+    # mongodb+srv://youtubeManager:<db_password>@cluster0.kitjx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    # youtubeManager
